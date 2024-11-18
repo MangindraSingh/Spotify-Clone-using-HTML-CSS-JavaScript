@@ -1,4 +1,3 @@
-Features
 Responsive Design:
 The website is fully responsive, ensuring a seamless experience on desktops, tablets, and mobile devices. This was achieved using CSS techniques like flexbox and grid layout.
 
